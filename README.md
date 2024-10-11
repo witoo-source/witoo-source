@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @witoo
 
-Hey! I'm from Spain 🇪🇸, i love coding 💻 JavaScript (Node.js & Vanilla), TypeScript (.tsx), C++ and C#.
+I'm from Spain 🇪🇸, i love coding 💻 JavaScript (Node.js & Vanilla), TypeScript (.tsx), C++ and C#.
 I usually use WebStorm, Clion and Visual Studio Code for coding.
 My goal is make something that changes the whole world.
 
